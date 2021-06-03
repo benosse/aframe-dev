@@ -1,12 +1,12 @@
 <template>
 	<div>
-		<h1>scene 1</h1>
+		<h1>scene 2</h1>
 	</div>
 </template>
 
 <script>
 export default {
-	name: "Scene1",
+	name: "Scene2",
 };
 </script>
 

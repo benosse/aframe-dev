@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "IBM Flex Regular";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;
+    src: url("/fonts/IBM_Plex/IBMPlexSans-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: "IBM Flex Regular";
+    font-size: 16px;
+}
